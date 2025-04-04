@@ -51,7 +51,3 @@ Participo ativamente de competições de programação:
 - LinkedIn: [Eduardo Theodoro](https://www.linkedin.com/in/edutheodoro/)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=edutb&label=Profile%20views&color=0e75b6&style=flat" alt="edutb" />
-</p>
