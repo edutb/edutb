@@ -20,7 +20,7 @@ Minha pesquisa é focada no desenvolvimento de algoritmos exatos e heurísticos 
 - Algoritmos e Estruturas de Dados
 - Programação Competitiva
 - Pesquisa Operacional
-- Metaheurísticas e Algoritmos Aproximativos
+- Metaheurísticas e Algoritmos Aproximados
 
 ---
 
