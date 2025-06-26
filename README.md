@@ -1,5 +1,4 @@
 <h1 align="center">Eduardo Theodoro Bogue</h1>
----
 
 ## 👋 Sobre mim
 
