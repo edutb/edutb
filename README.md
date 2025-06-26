@@ -1,9 +1,4 @@
 <h1 align="center">Eduardo Theodoro Bogue</h1>
-
-<p align="center">
-  👨‍🏫 Professor | 🧠 Otimização Combinatória | 🏆 Competitive Programmer
-</p>
-
 ---
 
 ## 👋 Sobre mim
@@ -17,10 +12,10 @@ Minha pesquisa é focada no desenvolvimento de algoritmos exatos e heurísticos 
 ## 🧠 Interesses
 
 - Otimização Combinatória
-- Algoritmos e Estruturas de Dados
-- Programação Competitiva
 - Pesquisa Operacional
 - Metaheurísticas e Algoritmos Aproximados
+- Programação Competitiva
+- Algoritmos e Estruturas de Dados
 
 ---
 
@@ -36,10 +31,10 @@ Minha pesquisa é focada no desenvolvimento de algoritmos exatos e heurísticos 
 
 Participo ativamente de competições de programação:
 
-- 🥇 **Top 20 no Beecrowd**  
+- 🥇 **Beecrowd (rank 18)**  
   [Perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/21704)
 
-- 🧩 **Desafios de algoritmos e entrevistas técnicas no LeetCode**  
+- 🧩 **LeetCode (level Knight)**  
   [Perfil LeetCode](https://leetcode.com/edutheodoro/)
 
 ---
@@ -47,7 +42,7 @@ Participo ativamente de competições de programação:
 ## 📫 Contato
 
 - Email: eduardo.theodoro [at] ic.ufmt.br
-- Lattes: [Currículo Lattes](http://lattes.cnpq.br/0756149367801391)
+- Lattes: [Currículo Lattes](https://lattes.cnpq.br/8284377057354278)
 - LinkedIn: [Eduardo Theodoro](https://www.linkedin.com/in/edutheodoro/)
 
 ---
