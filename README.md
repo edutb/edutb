@@ -4,7 +4,7 @@
 
 Sou professor na Faculdade de Computação da Universidade Federal de Mato Grosso do Sul (UFMS). Tenho doutorado em Ciência da Computação pela UFMG, com mestrado pela UNICAMP e graduação pela UFMS.
 
-Minha pesquisa é focada no desenvolvimento de algoritmos exatos e heurísticos para problemas de otimização combinatória, com aplicações em diversas áreas como redes, logística e bioinformática.
+Minha pesquisa é focada no desenvolvimento de algoritmos exatos e heurísticos para problemas de otimização combinatória e ciência de dados, com aplicações em diversas áreas como redes, logística e bioinformática.
 
 ---
 
