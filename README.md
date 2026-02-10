@@ -40,7 +40,7 @@ Participo ativamente de competições de programação:
 
 ## 📫 Contato
 
-- Email: eduardo.theodoro [at] ic.ufmt.br
+- Email: eduardo.theodoro [at] ufms.br
 - Lattes: [Currículo Lattes](https://lattes.cnpq.br/8284377057354278)
 - LinkedIn: [Eduardo Theodoro](https://www.linkedin.com/in/edutheodoro/)
 
